@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(white 0% , black 100%);
+    color: gold;
+}
+
+.heading {
+    width: 75%;
+    font-size: 20px;
+    font-family: fantasy;
+    color: gold;
+}
+
+#camera {
+    border: 2px black;
+    width: 350px;
+    height: 300px;
+}
+
+
